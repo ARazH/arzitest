@@ -10,6 +10,9 @@
   </script>
 
   <p>...After the script.</p>
+<?php
+echo "Hi Sab";
+?>
 
 </body>
 
