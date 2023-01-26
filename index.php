@@ -10,10 +10,12 @@
   </script>
 
   <p>...After the script.</p>
+<H1>
 <?php
 echo "Hi Sab";
+print("From PHP print");
 ?>
-
+</h1>
 </body>
 
 </html>
